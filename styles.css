@@ -1,1 +1,7 @@
 /* your code */
+thead{
+	background-colour : blue
+}
+tr:nth-child(odd) {
+  background-color: #D6EEEE;
+}
